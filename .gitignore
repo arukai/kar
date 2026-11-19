@@ -1,0 +1,15 @@
+# личные настройки и данные (создаются при первом запуске)
+config.json
+history.json
+notes.md
+reminders.json
+kar.log
+reports/
+
+# модели распознавания речи — ставятся через setup.bat
+models/
+
+# служебное
+__pycache__/
+*.pyc
+*.tmp
